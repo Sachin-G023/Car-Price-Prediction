@@ -81,7 +81,7 @@ streamlit run app.py
 
 
 
-## 📊 Findings
+## 📊 **Findings**
 
 -Older cars tend to have significantly lower selling prices
 -→ There’s a clear inverse relationship between car age and price.

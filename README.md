@@ -139,7 +139,7 @@ streamlit run app.py
 
 The project successfully built and evaluated a car price prediction model using real-world features. After thorough data cleaning, feature transformation, and model training:
 
-The Random Forest model achieved 93% accuracy.
+The Random Forest model achieved 98% accuracy.
 
 Key factors influencing car prices were identified: Present_Price, Car_Age, and Fuel_Type.
 

@@ -68,20 +68,19 @@ The dataset includes the following features:
    → Final model saved using Pickle
 
 
-
 ### 5. 🚀 Streamlit Web App 
 
 You can deploy the model using [Streamlit]
 
+
 ### 6. Run locally:
-```bash
+
 pip install streamlit
 streamlit run app.py
 
 
 
-
-## 📊 **Findings**
+## 📊 Findings
 
 -Older cars tend to have significantly lower selling prices
 -→ There’s a clear inverse relationship between car age and price.
